@@ -1,3 +1,3 @@
-# Python_for_Data
+# Python
 
 This is repository for storing documents which is being created while learning Python
